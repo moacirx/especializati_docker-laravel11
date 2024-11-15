@@ -54,8 +54,9 @@ Acesse o projeto
 
 
 
+
 git init
-git add README.md
+git add .
 git commit -m "first commit"
 git branch -M main
 git remote add origin git@github.com:moacirx/especializati_docker-laravel11.git
